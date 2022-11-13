@@ -1,5 +1,5 @@
 function play() {
-var audio = new Audio('https://www.mboxdrive.com/y2mate.com%20-%20Mentahan%20Ruth%20B%20Dandelions%20Slowed%20TikTok%20Lyrics%20Overlay%20.mp3');audio.play();}
+var audio = new Audio('audio.mp3');audio.play();}
 function nonFt() {document.getElementById('foto').style.display = "none";} function showFt() {document.getElementById('foto').style.display = "block";}
   function nonDiv() {document.getElementById('Content').style.display = "none";} function showDiv() {document.getElementById('Content').style.display = "block";}
   function trm() {document.getElementById('trm').style.margin = "0";}
